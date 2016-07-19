@@ -26,3 +26,4 @@ TODO:
 - [ ] add net I/O checking
 - [ ] define nrpe usage
 - [ ] prevent parallel execution?
+- [ ] delete/assign function to lowercase flags
