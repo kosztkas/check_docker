@@ -25,3 +25,4 @@ TODO:
 - [ ] add disk I/O checking
 - [ ] add net I/O checking
 - [ ] define nrpe usage
+- [ ] prevent parallel execution?
