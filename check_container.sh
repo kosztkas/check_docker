@@ -3,8 +3,9 @@
 # Author: Sandor Kosztka
 # Email: sandor.kosztka@gmail.com
 # License: MIT
-# Nagios Usage: nrpe usage TODO
-# Usage: ./check__container.sh _container_id_ <options>
+# Nagios Usage: check_container!<container_id>!-T running
+#               check_container!<container_id>!-W 70!-C 90!-T memused
+# Usage: ./check__container.sh <container_id> <options>
 #---
 # The running() function checks if a container is running and grabs some base information
 #   OK - running
