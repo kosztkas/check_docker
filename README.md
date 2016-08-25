@@ -24,6 +24,6 @@ TODO:
 -----
 - [ ] add disk I/O checking
 - [ ] add net I/O checking
-- [ ] define nrpe usage
+- [x] define nrpe usage
 - [ ] prevent parallel execution?
 - [ ] delete/assign function to lowercase flags
