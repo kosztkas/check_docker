@@ -1,7 +1,5 @@
-check_docker
-=========
 Docker checking script for nagios.
-
+=========
 Check if the container with the given id (or name) is running or the memory and CPU usage is between the given limits.
 
 #### Samples
